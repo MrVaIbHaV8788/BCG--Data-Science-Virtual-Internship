@@ -55,3 +55,5 @@ A few things to think about for this abstract include:
 - What is the most important number or metric to share with the client?
 - How much detail should you go into, especially with the technical details of your work?
 - What impact would the model have on the client’s bottom line? Always test what you write with the “so what” test
+  # Recommendations:
+- difference between off-peak prices in December and January the preceding year could be a significant feature when predicting churn”
